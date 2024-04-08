@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.pythonPath": "/Users/ignaciocarrenoromero/anaconda3/envs/Pytorch_DL/bin/python"
+}
